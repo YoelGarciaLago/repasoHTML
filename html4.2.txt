@@ -1,0 +1,6 @@
+<form action="" >
+  <p>
+  Servicio de música:
+  <input type=checkbox>Spotify<input type=checkbox>Youtube<input type=checkbox>Apple Music
+  </p>
+</form>

@@ -1,0 +1,11 @@
+<table border='1'bgcolor='yellow'>
+  <tr>
+    <td>dato 1</td>
+    <td rowspan='2'>dato 2</td>
+    <td>dato 3</td>
+  </tr>
+  <tr>
+    <td>dato 4</td>
+    <td>dato 5</td>
+  </tr>
+</table>

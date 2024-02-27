@@ -1,0 +1,14 @@
+<table border='1'>
+  <tr>
+    <th>gead 1</th>
+    <th>item 1</th>
+    <th>head3</th>
+  </tr>
+  <tr>
+    <td colspan='3' align='center'>A-B-C</td>
+  <tr>
+    <td>item 1</td>
+    <td>item 1</td>
+    <td>item 1</td>
+  </tr>
+</table>

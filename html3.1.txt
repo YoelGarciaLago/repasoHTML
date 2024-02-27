@@ -1,0 +1,12 @@
+<table border='1'>
+  <tr>
+    <td>AA</td>
+    <td>BB</td>
+    <td>CC</td>
+  </tr>
+  <tr>
+    <td>DD</td>
+    <td>EE</td>
+    <td>FF</td>
+  </tr>
+</table>

@@ -1,0 +1,22 @@
+<p>Nome:
+  <br><input type=text placeholder="Escribe tu nombre">
+
+<br>Email:
+  <br><input type=text placeholder="correo@gmail.com">
+  <br>Asunto:
+  <br><select name= "eleccion" multiple size="3">
+  <option>Pedir presuposto web</option>
+  <option>Solicitar cita previa</option>
+  <option>Outros</option>
+  </select>
+  <br>Como nos conoceches?
+  <br><input type=checkbox name="select">Un amigo
+  <input type=checkbox name="select">Googleando
+  <input type=checkbox name="select">Buzoneando
+  <input type=checkbox name="select">Outros
+</p>
+<p>
+  Escribe a tu mensaxe
+  <br><textarea name = "textarea" rows="3" cols="20"></textarea>
+  <br><input type = checkbox>Lin e acepto o <a href="www.google.com">aviso legal e política de privacidade</a>
+</p>

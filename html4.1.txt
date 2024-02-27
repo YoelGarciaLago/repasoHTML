@@ -1,0 +1,18 @@
+
+<form action="">
+  Nome:
+  <input type='text'>
+         </form>
+  <br>
+<form action="">
+Contrasinal:
+  <input type='password'>
+</form>
+<br>
+<form action="">
+Comentarios
+  <br><textarea name='Comentarios'rows='6'cols='40'>
+  </textarea>
+  </form>
+<p ><input type='submit' value='Enviar datos' style='margin-right:10px;'><input type='reset' value='Borrar datos'></p>
+

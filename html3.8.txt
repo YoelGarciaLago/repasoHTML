@@ -1,0 +1,34 @@
+<style>
+  table{
+    width:450px;
+    text-align:center;
+    border-collapse:collapse;
+  }
+  tr,td{
+    border:1px solid black;
+  }
+</style>
+<table bgcolor='red'>
+  <tr>
+    <td>Head1</td>
+    <td>Head1</td>
+    <td style='border-bottom:1px solid red;'>Head1</td>
+    <td style='border-bottom:1px solid red;'>Head1</td>
+  </tr>
+  <tr>
+    <td rowspan='2'>E-I</td>
+    <td>Head1</td>
+    <td colspan='2'style='border:1px solid red;'>G-H</td>
+  </tr>
+  <tr>
+    <td 'border-top:1px solid red;'>Head1</td>
+    <td rowspan='2'>K-O</td>
+    <td>Head1</td>
+  </tr>
+   <tr>
+    <td>Head1</td>
+    <td>Head1</td>
+    <td>Head1</td>
+  </tr>
+</table>
+

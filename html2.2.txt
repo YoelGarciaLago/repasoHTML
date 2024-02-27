@@ -1,0 +1,8 @@
+
+<p style= "color:blue;
+           font-size:30px;">Algúns grúpos de Greg Cartwright</p>
+<ul >
+<li style="list-style-type:circle"><u><b>Reigning Sound</li>
+<li style="list-style-type:circle">Oblivians</li>
+  <li style="list-style-type:circle">Compulsive Gamblers</u></b></li>
+</ul>

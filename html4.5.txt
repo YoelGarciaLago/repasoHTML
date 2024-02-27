@@ -1,0 +1,8 @@
+<h2>Formulario de rexistro</h2>
+  <p><a style="margin-left:5px;margin-right:5px;">Nome:</a><input type=text></p>
+<p><a style="margin-left:5px;margin-right:5px;">Apelido:</a><input type=text></p>
+<p>Sexo:<input type=radio style="margin-left:15px;" name="select">Binario<input type=radio style="margin-left:15px;" name="select">No binario</p>
+<p><a style="margin-left:5px;margin-right:5px;">Correo:</a><input type=text></p>
+<p><input type=checkbox>Desexo recibir ofertas</p>
+<p><input type=checkbox>Lín a política de privacidad</p>
+<p><input type=submit value=Enviar></p>

@@ -1,0 +1,26 @@
+<h1>Texto de tamaño h1</h1>
+<h2>Texto de tamaño h2</h2>
+<h3>Texto de tamaño h3</h3>
+<h4>Título de tamaño h4</h4>
+<h5>Texto de tamaño h5</h5>
+<h6>Texto de tamaño h6</h6>
+<span>Las líneas horizontales son muy útiles para separar distintas secciones.</span>
+<section>Sección 1</section>
+<section>Sección 2</section>
+<section>Sección 3</section>
+<p>Texto normal - <b>Texto en negrita</b></p>
+<p>Texto normal - <em>Texto enfatizado</em></p>
+<p>Texto normal - <i>Texto en itálica</i></p>
+<p>Texto normal - <small>Texto pequeño</small></p>
+<p>Texto normal - <sup>Texto Superíndice</sup></p>
+<p>Texto normal- <sub>Texto Subíndice</sub></p>
+<p>Texto normal - <u>Texto subrayado</u></p>
+<p>Texto normal – <s>Texto tachado</s></p>
+<p>Texto normal - <span style="Background-color:yellow;">texto con mark</span></p>
+<p>Texto normal-<dfn>Texto tipo definición</dfn></p>
+<p>Texto normal- &quot;“Texto entrecomillado”&quot;</p>
+<p><del>Contenedor de texto eliminado</del></p>
+<p style=margin-left:20px;>Sangría- bloque de texto</style></p>
+<p>Haz clic para ver las tareas (tarea1,tarea2)</p>
+ <p> Mostrar el avance de una tarea (60%)</p>
+
